@@ -1,12 +1,8 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "io.github.lqdd_hub.twa",
-      "sha256_cert_fingerprints": [
-        "76:63:AD:19:1F:34:FA:F4:5D:36:B0:AE:9B:23:7F:E3:29:5C:35:6F:67:9D:79:F7:FF:38:54:95:BF:84:44:BC"
-      ]
-    }
-  }
-]
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.lqdd_hub.twa",
+        "sha256_cert_fingerprints": ["B9:B4:18:3D:C8:D7:F0:DC:45:95:30:B5:C5:DF:85:17:FA:66:9E:C3:C5:1C:3A:C1:08:A1:7D:D2:FF:18:FB:79"]
+      }
+    }]
