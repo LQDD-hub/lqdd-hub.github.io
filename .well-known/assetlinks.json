@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.lqdd_hub.twa",
+      "sha256_cert_fingerprints": [
+        "76:63:AD:19:1F:34:FA:F4:5D:36:B0:AE:9B:23:7F:E3:29:5C:35:6F:67:9D:79:F7:FF:38:54:95:BF:84:44:BC"
+      ]
+    }
+  }
+]
